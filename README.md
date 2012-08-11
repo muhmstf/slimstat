@@ -1,0 +1,4 @@
+slimstat
+========
+
+Simple web analytics.
